@@ -6,7 +6,7 @@ This project require minisat installed to run and compile. Instruction for insta
 Run ``./compile.sh`` to compile CEGARBox
 
 ## Input Formula
-CEGARBox accepts file input. Input is terminated by a newline and valid formula are defined by the following grammar:
+CEGARBox accepts file input. Input is terminated by a newline and valid input formula are defined by the following grammar:
 ```
 Formula := ImpFormula <=> ImpFormula || ImpFormula
 ImpFormula := OrFormula => OrFormula || OrFormula
