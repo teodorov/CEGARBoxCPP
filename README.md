@@ -28,3 +28,13 @@ Options:
 * Seriality: ``--serial`` or ``-d``
 * Euclidean: ``--euclidean`` or ``-e``
 * Valid (whether input formula is valid): ``--valid`` or ``-v``
+
+## Benchmarks
+
+MQBF benchmarks can be downloaded from [here](http://www.cril.univ-artois.fr/~montmirail/mosaic/#)
+
+Use ``Experiment/convert.py`` to convert the benchmarks into a valid format.
+
+## Experiments
+
+Experiments can be run using Experiment/experiment.py and ``Exeriment/experiment_reflexive.py``
