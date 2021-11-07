@@ -1,4 +1,7 @@
 # CEGARBoxCPP
+
+## Authorship
+All files in this repository were authored by Robert McArthur.
 ## Dependencies
 This project requires minisat installed to run and compile. Instruction for installing minisat are available [here](https://github.com/niklasso/minisat).
 
