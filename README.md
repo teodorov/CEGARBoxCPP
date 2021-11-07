@@ -1,6 +1,6 @@
 # CEGARBoxCPP
 ## Dependencies
-This project require minisat installed to run and compile. Instruction for installing minisat are available [here](https://github.com/niklasso/minisat).
+This project requires minisat installed to run and compile. Instruction for installing minisat are available [here](https://github.com/niklasso/minisat).
 
 ## Compile
 Run ``./compile.sh`` to compile CEGARBox
